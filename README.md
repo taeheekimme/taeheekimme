@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+| 활동명  | 기간  | 내용  | 기관  | README  |
+|---|---|---|---|---|
+| CS50 코칭스터디 2기  | 21.01.11~21.02.26 (6주)  |   | 네이버 커넥트재단 부스트코스  | <README.md>  |
+| SW기초역량 아카데미 빅데이터 심화과정 | 21.01.05~21.01.30 (80시간)  |   | 서울산업진흥원 주최 <br>아시아경제 주관  |   |
+| 스스로 배우는 데이터 사이언스  | 20.11.23~21.01.17 (8주)  |   | Algorima / AI 양재 허브  |   |
+| 삼성SDS 온라인 IT 멘토링  |  20.07.06~20.08.31 (8회) |   | 삼성SDS 사회공헌단  |   |
+| 핀테크 금융 데이터 분석가 양성과정 | 19.12.23~20.02.18 (300시간) |   | 아시아경제 / 고용노동부  |   |
 
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
 
 <p>  <img align = "center"src = "https://github-readme-stats.vercel.app/api?username=taeheekimme&show_icons=true&locale=en"alt = "taeheekimme"/> </ p>
-
 
 
 
