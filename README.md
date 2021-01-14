@@ -19,4 +19,11 @@ Here are some ideas to get you started:
 [! [taehee의 github 통계] (https://github-readme-stats.vercel.app/api ? username = taeheekimme )] 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeheekimme&count_bg=%2379C83D&title_bg=%231CA3A1&icon=snapchat.svg&icon_color=%23681B1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
