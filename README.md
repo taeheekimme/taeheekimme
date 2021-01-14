@@ -27,10 +27,5 @@ Here are some ideas to get you started:
 
 
 
-<p>  <img align = "center"src = "https://github-readme-stats.vercel.app/api?username=taeheekimme&show_icons=true&locale=en"alt = "taeheekimme"/> </ p>
-
-
-
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=taeheekimme&label=Profile%20views&color=0e75b6&style=flat"alt = "taeheekimme"/> </ p>
 
 
