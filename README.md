@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+
 
 <p>  <img align = "center"src = "https://github-readme-stats.vercel.app/api?username=taeheekimme&show_icons=true&locale=en"alt = "taeheekimme"/> </ p>
 
