@@ -1,5 +1,6 @@
 
 
+
 ## Career :book:  :pencil:
 - [핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course) / 2019.12.23 ~ 2020.02.18 (300시간)
 - [삼성SDS 온라인 IT 멘토링](https://github.com/taeheekimme/Samsung_SDS_Online_IT_Mentoring) / 2020.07.06 ~ 2020.08.31 (8회)
@@ -12,21 +13,21 @@
 - [생활코딩 머신러닝 야학 Tensorflow1](https://github.com/taeheekimme/Tensorflow1) / 2020.08.13 ~ 2020.08.27
 - [파이썬 알고리즘 문제풀이(코딩테스트 대비)](https://github.com/taeheekimme/python_algorithm) / 2020.08.18 ~ 2020.11
 
-## Certificate: :books: 
-
+## Certificate :books: 
 - SQLD SQL 개발자
 - ADsP 데이터 분석 준전문가
 - 정보처리기사
 
 ## Project 
-
 [핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course)
 [핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course)
 
+## 수상내용
 
 
-## Kaggle :book:  :books:  :pencil:
+## Kaggle 
+## Dacon 
 
-
-## Dacon :book:  :books:  :pencil:
-
+## 봉사활동
+## 학교
+## 전공과목
