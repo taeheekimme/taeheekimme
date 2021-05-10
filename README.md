@@ -11,16 +11,11 @@
 - [파이썬 머신러닝 완벽 가이드 개정판](https://github.com/taeheekimme/Complete_Python_Machine_Learning_Guide) / 2020.07.20 ~ 2020.12
 - [생활코딩 머신러닝 야학 Tensorflow1](https://github.com/taeheekimme/Tensorflow1) / 2020.08.13 ~ 2020.08.27
 - [파이썬 알고리즘 문제풀이(코딩테스트 대비)](https://github.com/taeheekimme/python_algorithm) / 2020.08.18 ~ 2020.11
-- [프로그래머스(코딩테스트 대비)](https://github.com/taeheekimme/Programmers) / 2020.01.19 ~ 
+
 
 ## Certificate :books: 
 - SQLD SQL 개발자
 - ADsP 데이터 분석 준전문가
 - 정보처리기사
-
-## Project 
-[핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course)
-[핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course)
-
 
 
