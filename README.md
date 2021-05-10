@@ -5,7 +5,6 @@
 - [핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course) / 2019.12.23 ~ 2020.02.18 (300시간)
 - [삼성SDS 온라인 IT 멘토링](https://github.com/taeheekimme/Samsung_SDS_Online_IT_Mentoring) / 2020.07.06 ~ 2020.08.31 (8회)
 - [스스로 배우는 데이터 사이언스](https://github.com/taeheekimme/Self_Learning_Data_Science) / 2020.11.23 ~ 2021.01.17 (8주)
-- [SW기초역량 아카데미 빅데이터 심화과정](https://github.com/taeheekimme/SW_Basic_Competency_Academy_BigData_Advanced_Course) / 2021.01.05 ~ 2021.01.30 (80시간)
 - [CS50 코칭스터디 2기](https://github.com/taeheekimme/CS50_Coaching_Study_2nd) / 2021.01.11 ~ 2021.02.26 (6주) 
 
 ## study
