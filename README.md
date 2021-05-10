@@ -23,6 +23,5 @@
 [핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course)
 [핀테크 금융 데이터 분석가 양성과정](https://github.com/taeheekimme/Fintech_Financial_Data_Analyst_Training_Course)
 
-## 수상내용
 
 
