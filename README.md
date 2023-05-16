@@ -16,7 +16,7 @@
 ## Certificate :books: 
 - SAS Ceritifed BASE Programmer for SAS 9  
 - SQLD
-- ADSP 데이터 분석 준전문가
+- ADSP 
 - 정보처리기사
 
 
